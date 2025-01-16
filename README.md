@@ -9,3 +9,8 @@ The **PubMedQA** dataset is available on Hugging Face at [PubMedQA Dataset](http
 ### Project Overview
 
 This project fine-tunes a pre-trained language model using the **PubMedQA** dataset. It leverages **OpenAI** for model generation, **Pinecone** for vector storage, and **LangChain** for chaining language models to improve answering complex biomedical questions.
+
+### Key Update:
+- **JavaScript Chat Project**: New JS project will be added soon it's about chat project
+
+This should now reflect both your LLM project and the upcoming JavaScript chat project!
